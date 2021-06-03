@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AkhilGupta018
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Software
-- 📫 How to reach me No Need
+- 👀 I’m interested in Nothing
+- 🌱 I’m currently learning to Live
+-
 
 <!---
 AkhilGupta018/AkhilGupta018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
